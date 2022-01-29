@@ -8,7 +8,7 @@ $txnid = substr(hash('sha256', mt_rand() . microtime()), 0, 20);
 
 $PAYU_BASE_URL = "https://test.payu.in";		// For Sandbox Mode
 // $PAYU_BASE_URL = "https://sandboxsecure.payu.in";    // For Sandbox Mode
-// $PAYU_BASE_URL = "https://secure.payu.in";    // For Sandbox Mode
+// $PAYU_BASE_URL = "https://secure.payu.in";    // For Live Mode
 
 $action = '';
 
