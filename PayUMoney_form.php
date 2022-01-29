@@ -1,7 +1,7 @@
 <?php
 
-$MERCHANT_KEY = "FwrdHEzm";
-$SALT = "WdyynaPF30";
+$MERCHANT_KEY = "oZ7oo9";
+$SALT = "UkojH5TS";
 
 $txnid = substr(hash('sha256', mt_rand() . microtime()), 0, 20);
 // Merchant Key and Salt as provided by Payu.
