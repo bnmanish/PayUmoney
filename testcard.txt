@@ -1,0 +1,15 @@
+PayUmoney testing Card:
+-----------------------
+Card Type: Master
+Card Name: Test
+Card Number: 5123456789012346
+Expiry Date: Any future date
+CVV: 123
+OTP :- 123456
+
+-----------------------------
+Testing credential for payumoney
+
+KEY sent by PAYU
+* Merchant key: oZ7oo9
+* Salt :- UkojH5TS
